@@ -2,7 +2,7 @@
 ~ ❤️ I love coding, building computers, linux  
 ~ 📖 learning c++, JavaScript, htmx   
 ~ ✉️ Contact **hackbot142** everywhere  
-
+---
 ~ 📝 so far I know  
 ----• 🐍 python  
 ----• 💲 shell  
