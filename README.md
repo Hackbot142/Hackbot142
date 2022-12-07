@@ -1,9 +1,15 @@
-~ 🤖 Hello, I’m 142 a broken robot  
-~ ❤️ I love coding, building computers, linux  
-~ 📖 learning c++, JavaScript, htmx   
-~ ✉️ Contact **hackbot142** everywhere  
+# Hello, I’m 142 
 ---
-~ 📝 so far I know  
-----• 🐍 python  
-----• 💲 shell  
-----• 💻 html/css  
+❤️ I love code, computer hardware and linux  
+📖 I am learning c++, JavaScript, htmx   
+  
+---
+📝 so far I know  
+• 🐍 python  
+• 💲 shell  
+• 💻 html/css
+
+---
+# [hackbot142.io](https://hackbot142.github.io)
+
+# [142 youtube](https://youtube.com/@Hackbot142)
