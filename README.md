@@ -1,8 +1,7 @@
-# Hello, I’m 142 
+# Hello, I am 142
 ---
 ❤️ I love code, computer hardware and linux  
 📖 I am learning c++, JavaScript, htmx   
-  
 ---
 📝 so far I know  
 • 🐍 python  
