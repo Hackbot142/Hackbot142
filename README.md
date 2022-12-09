@@ -1,7 +1,7 @@
 # Hello, I am 142
 ---
-❤️ I love code, computer hardware and linux  
-📖 I am learning c++, JavaScript, htmx   
+❤️ code and linux  
+📖 c++, JavaScript, htmx   
 ---
 📝 so far I know  
 • 🐍 python  
