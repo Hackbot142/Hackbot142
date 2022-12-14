@@ -1,6 +1,6 @@
 # Hello, I am 142
 ---
-❤️ code and linux  
+❤️ code, hardware and linux  
 📖 c++, JavaScript, htmx, php   
 ---
 📝 so far I know  
