@@ -4,8 +4,8 @@
 ---
 📝 so far I know  
 • 💲 shell  
-• 💻 html/css
-• 💻 Tech Support
+• 💻 html/css  
+• 💻 Tech Support  
 
 ---
 # [hackbot142.io](https://hackbot142.github.io)
