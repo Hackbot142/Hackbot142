@@ -1,12 +1,11 @@
 # Hello, I am 142
 ---
-❤️ code, hardware and linux  
-📖 c++, JavaScript, htmx, php   
+❤️ code, hardware and linux     
 ---
 📝 so far I know  
-• 🐍 python  
 • 💲 shell  
 • 💻 html/css
+• 💻 Tech Support
 
 ---
 # [hackbot142.io](https://hackbot142.github.io)
